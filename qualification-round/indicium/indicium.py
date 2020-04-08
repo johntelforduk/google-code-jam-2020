@@ -1,4 +1,4 @@
-# Solution to first qualification problem, "Indicium".
+# Solution to qualification problem, "Indicium".
 # https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0
 # It solves this problem for Test Set 1. It doesn't solve Test Set 2 :(
 
