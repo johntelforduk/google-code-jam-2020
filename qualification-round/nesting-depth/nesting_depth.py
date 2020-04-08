@@ -1,4 +1,4 @@
-# Solution to first qualification problem, "Nesting Depth".
+# Solution to qualification problem, "Nesting Depth".
 # https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f
 
 from sys import stdin, argv
