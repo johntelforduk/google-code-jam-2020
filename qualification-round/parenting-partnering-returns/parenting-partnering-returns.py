@@ -1,4 +1,4 @@
-# Solution to first qualification problem, "Parenting Partnering Returns".
+# Solution to qualification problem, "Parenting Partnering Returns".
 # https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9
 
 from sys import stdin, argv
